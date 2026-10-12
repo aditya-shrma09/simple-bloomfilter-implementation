@@ -177,3 +177,4 @@ These are preliminary results from a single run, not a comprehensive performance
 This project serves as a baseline implementation and benchmark for studying the trade-offs between memory usage, query performance, and probabilistic accuracy in Bloom Filters.
 
 It is also the starting point for a larger project exploring a **Deep Learning Driven Adaptive Bloom Filter for Dynamic Data Streams**.
+m\approx-\frac{n\ln p}{(\ln 2)^2}
